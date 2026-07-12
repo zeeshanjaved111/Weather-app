@@ -11,11 +11,18 @@ You can view the live website here:
 
 ## ✨ Features
 
-- 🌡️ Displays current weather information
-- 🔍 Simple and clean user interface
-- 📱 Responsive design
-- ⚡ Fast and lightweight
-- 💻 Built with pure HTML, CSS, and JavaScript
+- 🌡️ Displays current weather with temperature, feels-like, humidity
+- 💨 Wind speed & direction
+- ☀️ UV Index with health level indicator
+- 🌅 Sunrise & Sunset times
+- 👁️ Visibility & Cloudiness
+- 📊 Atmospheric pressure
+- 🔍 Search any Pakistan city (auto-complete via Open-Meteo)
+- 📅 7-Day forecast with hourly detail (click any day)
+- 🌙 Dark/Light mode toggle (saved to localStorage)
+- ⚡ Auto-refresh every 3 minutes
+- 📱 Fully responsive design
+- 🚀 No API key needed (uses Open-Meteo free API)
 
 ## 🛠️ Technologies Used
 
